@@ -1,141 +1,223 @@
-# Hi there 👋, I'm Santhosh M
+# Hi 👋, I'm Santhosh M
 
-🎓 B.E. Computer Science Engineering (AI & DS) Student  
-💻 Full Stack Developer | AI Enthusiast | SaaS Builder  
-📍 Bangalore, Karnataka, India
+### AI & Full-Stack Developer | Python | FastAPI | React | Machine Learning
+
+🎓 B.E. Computer Science Engineering (AI & Data Science) — 2023–2027
+💻 Building AI-powered applications, full-stack products & intelligent data platforms
+📍 Bengaluru, Karnataka, India
 
 ---
 
 ## 🚀 About Me
 
-I am a Computer Science Engineering student specializing in Artificial Intelligence and Data Science. I enjoy building full-stack web applications, AI-powered solutions, and SaaS products that solve real-world problems.
+I'm a Computer Science Engineering student specializing in **Artificial Intelligence & Data Science**.
 
-Currently focused on:
-- Building SaaS products
-- Full Stack Development
-- Artificial Intelligence & Machine Learning
-- Open Source Contributions
+I enjoy turning ideas into working products by combining **software engineering, AI, data processing and modern web technologies**.
+
+I like building projects from **concept → development → deployment**, with a strong interest in AI-powered applications and full-stack engineering.
+
+### Currently focused on
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 💻 Full-Stack Development
+* 🐍 Python & FastAPI
+* ⚛️ React & Next.js
+* 📊 Data Engineering & Analytics
+* 🧠 Data Structures & Algorithms
+* ☁️ Deployment & Cloud Technologies
+* 🚀 SaaS & Automation
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-- Python
-- JavaScript
-- HTML5
-- CSS3
-
-### Frontend Development
-- React.js
-- Next.js
-- Tailwind CSS
-- Bootstrap
-
-### Backend Development
-- Node.js
-- Express.js
-- FastAPI
-
-### Databases
-- PostgreSQL
-- MySQL
-- Supabase
-
-### Tools & Platforms
-- Git
-- GitHub
-- Vercel
-- Postman
-- Figma
-- VS Code
+| Category              | Technologies                                                        |
+| --------------------- | ------------------------------------------------------------------- |
+| **Languages**         | Python • Java • JavaScript • HTML5 • CSS3                           |
+| **Frontend**          | React.js • Next.js • Tailwind CSS • Bootstrap                       |
+| **Backend**           | FastAPI • Node.js • Express.js                                      |
+| **AI / Data**         | Machine Learning • OpenCV • Pandas • NumPy • Scikit-learn • XGBoost |
+| **Databases**         | MySQL • PostgreSQL • SQLite • Supabase                              |
+| **Tools & Platforms** | Git • GitHub • Docker • Vercel • Postman • Figma                    |
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📊 Universal Data Intelligence Platform (UDIP)
-A SaaS platform for data quality analysis, intelligent reporting, and analytics.
+## 🚗 NAVISCAPE
 
-**Features:**
-- Excel Data Upload
-- Data Quality Analysis
-- Dashboard Analytics
-- PDF Report Generation
-- JSON Export
-- Authentication System
+### AI-Powered Navigation & Road-Safety Platform
 
-**Tech Stack:** FastAPI, Supabase, PostgreSQL, Vercel
+NAVISCAPE is an intelligent navigation platform that combines traffic intelligence, accident-risk analysis and route optimization to improve route safety.
 
----
+### Key Features
 
-### 🗺️ Smart Safety Map
-A location-based emergency assistance and safety navigation system.
+* 🗺️ Interactive navigation & route planning
+* 🚦 Traffic intelligence
+* ⚠️ Accident-risk analysis
+* 🤖 XGBoost-based risk prediction
+* 🛣️ Risk-aware route optimization
+* 📍 Road-hazard reporting
+* 🔔 Accident hotspot proximity alerts
+* 📊 Large-scale accident dataset integration
+* 🔐 Authentication & user management
 
-**Features:**
-- Nearby Hospitals
-- Nearby Police Stations
-- SOS Emergency Assistance
-- Interactive Maps
+**Tech:** Python • FastAPI • React • XGBoost • SQLite • Machine Learning
 
-**Tech Stack:** HTML, CSS, JavaScript, Leaflet.js
+🔗 **[View Repository](https://github.com/m04-santhosh/NAVISCAPE-major-project)**
 
 ---
 
-### 🤖 AI Website Builder
-An AI-powered platform that generates websites from user prompts.
+## 🛡️ TrustGuard
 
-**Tech Stack:** React, AI APIs, Node.js
+### Forensic Multi-Modal Media Analysis System
 
----
+TrustGuard is a forensic media-analysis platform designed to analyze visual and audio evidence and generate an evidence-oriented case file.
 
-## 📈 GitHub Statistics
+### Key Features
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m04-santhosh&show_icons=true&theme=tokyonight)
+* 🎥 Image & video analysis
+* 👁️ Visual evidence analysis
+* 🔊 Audio analysis
+* 🔍 Cross-modal disagreement detection
+* 📋 Evidence generation
+* 📊 Risk & confidence assessment
+* 🧾 Audit trail & case records
+* 👤 Human-in-the-loop review
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m04-santhosh&layout=compact&theme=tokyonight)
+**Tech:** Python • FastAPI • React • OpenCV • SciPy • FFmpeg • SQLite
 
----
-
-## 🎯 Current Goals
-
-- Build Revenue-Generating SaaS Products
-- Master Full Stack Development
-- Learn Advanced AI Engineering
-- Contribute to Open Source Projects
-- Secure a Software Development Internship
+🔗 **[View Repository](https://github.com/m04-santhosh/Trust-Guard)**
 
 ---
 
-## 📚 Currently Learning
+## 📊 Universal Data Intelligence Platform
 
-- Advanced React & Next.js
-- System Design
-- AI Agents & Automation
-- Cloud Deployment
-- SaaS Architecture
+### AI-Powered Data Intelligence Platform
 
----
+UDIP is a data-processing and intelligence platform designed to transform raw structured data into useful analytics and insights.
 
-## 🏆 Achievements
+### Key Features
 
-- Built Multiple Full Stack Projects
-- Developed AI-Based Applications
-- Active GitHub Contributor
-- Exploring SaaS Entrepreneurship
+* 📁 Multi-file Excel ingestion
+* 🔍 Schema discovery
+* 🧹 Data normalization
+* 🔗 Entity resolution
+* 📊 Data catalog generation
+* 💡 Automated insights
+* 🔎 Natural-language data queries
+* 📄 JSON / CSV / Excel exports
+* 📈 Interactive data exploration
 
----
+**Tech:** Python • FastAPI • Pandas • JavaScript • SQLite
 
-## 📫 Connect With Me
-
-📧 Email: santhosh.muruga04@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/santhu1004/
-
-🌐 Portfolio: https://santhoshs-code-canvas.lovable.app/
-
-🐙 GitHub: https://github.com/m04-santhosh
+🔗 **[View Repository](https://github.com/m04-santhosh/Universal-data-intelligence-platform-UDIP)**
 
 ---
 
-### ⭐ "Always Learning, Always Building, Always Improving."
+## 🌐 Sorsvexa
+
+### AI Automation & SaaS Solutions
+
+Sorsvexa is my AI automation initiative focused on helping businesses automate communication, customer workflows and repetitive operations.
+
+### Focus Areas
+
+* 🤖 AI Chatbots
+* 💬 WhatsApp Automation
+* 📅 Appointment Automation
+* 📊 CRM & Workflow Automation
+* 🔗 API Integrations
+* ⚙️ Business Process Automation
+
+🔗 **[View Website Repository](https://github.com/m04-santhosh/sorsvexa-website)**
+
+---
+
+## 👁️ Real-Time Object Detection
+
+A computer-vision project focused on real-time object detection using image/video processing techniques.
+
+**Tech:** Python • Computer Vision • OpenCV
+
+🔗 **[View Repository](https://github.com/m04-santhosh/Real-Time-Object-Detection)**
+
+---
+
+## 🎨 Painting Contractor Landing Page
+
+A business-focused landing page project built for a painting contractor service, demonstrating responsive UI development and modern web design.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 **[View Repository](https://github.com/m04-santhosh/Painting-Contractar-Landing-Page)**
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m04-santhosh&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m04-santhosh&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+# 🎯 Current Goals
+
+* 💻 Become a strong Software Development Engineer
+* 🧠 Master Data Structures & Algorithms
+* 🤖 Build production-ready AI applications
+* 🚀 Launch real-world SaaS products
+* ☁️ Improve cloud & deployment skills
+* 📚 Strengthen system design fundamentals
+* 💼 Secure a software development internship
+
+---
+
+# 📚 Currently Learning
+
+* Advanced Python
+* Data Structures & Algorithms
+* System Design
+* AI Engineering
+* Machine Learning
+* Cloud Deployment
+* Backend Engineering
+* SaaS Architecture
+
+---
+
+# 💡 What I Like Building
+
+```text
+          Ideas
+            ↓
+     Product Development
+            ↓
+     Full-Stack Engineering
+            ↓
+      AI & Data Intelligence
+            ↓
+       Automation / SaaS
+            ↓
+      Real-World Solutions
+```
+
+I enjoy building software that combines **useful products, intelligent systems and clean engineering**.
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** [santhosh.muruga04@gmail.com](mailto:santhosh.muruga04@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/santhu1004](https://www.linkedin.com/in/santhu1004/)
+
+🌐 **Portfolio:** [santhoshs-code-canvas.lovable.app](https://santhoshs-code-canvas.lovable.app/)
+
+🐙 **GitHub:** [github.com/m04-santhosh](https://github.com/m04-santhosh)
+
+---
+
+### ⚡ Build. Learn. Ship. Repeat.
