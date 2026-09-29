@@ -214,7 +214,7 @@ I enjoy building software that combines **useful products, intelligent systems a
 
 💼 **LinkedIn:** [linkedin.com/in/santhu1004](https://www.linkedin.com/in/santhu1004/)
 
-🌐 **Portfolio:** [My_Portfolio]((https://myportfolio-58oyoyvib-m04-santhoshs-projects.vercel.app/))
+🌐 **Portfolio:** [Santhosh M — Portfolio](https://myportfolio-58yoyvib-m04-santhoshs-projects.vercel.app/)
 
 🐙 **GitHub:** [github.com/m04-santhosh](https://github.com/m04-santhosh)
 
